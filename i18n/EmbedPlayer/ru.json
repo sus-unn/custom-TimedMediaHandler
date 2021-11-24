@@ -8,14 +8,15 @@
 			"Okras",
 			"Putnik",
 			"Vlad5250",
-			"Александр Сигачёв"
+			"Александр Сигачёв",
+			"Pacha Tchernof"
 		]
 	},
 	"mwe-embedplayer-credit-title": "Название: $1",
 	"mwe-embedplayer-credit-date": "Дата: $1",
 	"mwe-embedplayer-credit-author": "Автор: $1",
 	"mwe-embedplayer-nocredits": "Нет сведений о создателях",
-	"mwe-embedplayer-loading_plugin": "загрузка плагина ...",
+	"mwe-embedplayer-loading_plugin": "Загружается плагин…",
 	"mwe-embedplayer-select_playback": "Установить настройки воспроизведения",
 	"mwe-embedplayer-link_back": "Обратная ссылка",
 	"mwe-embedplayer-error_swap_vid": "Ошибка: mv_embed не может поменять тег видео для интерфейса mv_embed",

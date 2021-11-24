@@ -22,7 +22,8 @@
 			"Sanbec",
 			"Spacebirdy",
 			"Translationista",
-			"Wizardeck"
+			"Wizardeck",
+			"Jakeukalane"
 		]
 	},
 	"timedmediahandler-desc": "Controlador de sonido, vídeo y texto sincronizado, compatible con los formatos WebM, Ogg Theora, Vorbis y srt",
@@ -148,7 +149,7 @@
 	"orphanedtimedtext": "Páginas TimedText huérfanas",
 	"orphanedtimedtext-summary": "Lista de páginas [[{{#special:AllPages/TimedText:}}|{{ns:TimedText}}]] que no tienen un archivo correspondiente.",
 	"orphanedtimedtext-unsupported": "Esta página especial sólo se admite en base de datos MySQL.",
-	"orphanedtimedtext-notimedtext": "TimedText no se activó en este wiki.",
+	"orphanedtimedtext-notimedtext": "TimedText no se activó en esta wiki.",
 	"videojs-more-information": "Más información",
 	"videojs-quality": "Calidad de vídeo"
 }
