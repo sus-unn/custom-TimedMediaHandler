@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Dnshitobu"
+			"Dnshitobu",
+			"Chirifo"
 		]
 	},
-	"timedmedia-source-file": "$1 nyabili"
+	"timedmedia-source-file": "$1 nyabili",
+	"timedmedia-source-audio-file-desc": "Zaɣimaŋli $1 lahabali kɔligu ($2)"
 }
