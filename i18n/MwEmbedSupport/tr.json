@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Hedda",
-			"Joseph"
+			"Joseph",
+			"BaRaN6161 TURK"
 		]
 	},
-	"mwe-loading": "Yükleniyor...",
+	"mwe-loading": "Yükleniyor ...",
 	"mwe-error_load_lib": "Hata: $1 JavaScript'i erişilebilir değil ya da $2 tanımlı değil",
 	"mwe-apiproxy-setup": "API vekili ayarlanıyor",
 	"mwe-load-drag-item": "Sürüklenen öge yükleniyor",

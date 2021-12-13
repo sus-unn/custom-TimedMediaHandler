@@ -13,7 +13,9 @@
 			"Sujiniku",
 			"Suyama",
 			"Tmv",
-			"青子守歌"
+			"青子守歌",
+			"What here area team",
+			"ネイ"
 		]
 	},
 	"timedmediahandler-desc": "WebM、Ogg Theora、Vorbis、srt 形式に対応した、動画、音声、字幕のハンドラー",
@@ -39,6 +41,8 @@
 	"timedmedia-midi-long-audio": "MIDI 音声ファイル、長さ $1、全体で $2",
 	"timedmedia-mp4-short-video": "MP4 $1 動画ファイル、$2",
 	"timedmedia-mp4-long-video": "MP4 音声/動画ファイル、$1、長さ $2、$4 × $5 ピクセル、全体で $3",
+	"timedmedia-mpeg-short-video": "MPEG $1 動画ファイル、$2",
+	"timedmedia-mpeg-long-video": "MPEG 音声/動画ファイル、$1、長さ $2、$4 × $5 ピクセル、全体で $3",
 	"timedmedia-more": "その他…",
 	"timedmedia-dismiss": "閉じる",
 	"timedmedia-download": "ファイルをダウンロードする",
@@ -95,13 +99,16 @@
 	"timedmedia-subtitle-remote": "このファイルの字幕は$1でホストされています",
 	"timedmedia-subtitle-remote-link": "$2 でこのファイルの[$1 解説ページを閲覧]できます",
 	"timedmedia-file": "ファイル",
+	"beta-feature-timedmediahandler-message-videojs": "新しいビデオプレイヤー",
 	"beta-feature-timedmediahandler-description-videojs": "さっぱりとした見た目とモバイル端末との親和性を兼ねた最新のプレイヤーで動画ファイルを見る。",
 	"action-transcode-reset": "トランスコードのリセット",
 	"action-transcode-status": "現在のトランスコード状態の閲覧",
+	"log-name-timedmediahandler": "TimedMediaHandler記録",
 	"orphanedtimedtext": "孤立しているTimedTextページ",
 	"orphanedtimedtext-summary": "以下のページは、対応するファイルが存在しない[[{{#special:AllPages/TimedText:}}|{{ns:TimedText}}]]の一覧です。",
 	"orphanedtimedtext-unsupported": "この特別ページは MySQL データベースのみでサポートされます。",
 	"orphanedtimedtext-notimedtext": "このウィキでは字幕が有効になっていません。",
 	"videojs-more-information": "詳細情報",
-	"videojs-quality": "画質"
+	"videojs-quality": "画質",
+	"transcodestatistics": "トランスコードの統計"
 }

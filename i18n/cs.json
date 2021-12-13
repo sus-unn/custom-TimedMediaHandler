@@ -11,7 +11,8 @@
 			"Mormegil",
 			"Patriccck",
 			"Paxt",
-			"Urbanecm"
+			"Urbanecm",
+			"Patrik L."
 		]
 	},
 	"timedmediahandler-desc": "Obsluha zvuků, videa a časovaného textu s podporou formátů WebM, Ogg Theora, Vorbis, srt",
@@ -128,14 +129,14 @@
 	"timedmedia-no-derivatives": "Transkódování není potřeba.",
 	"timedmedia-file": "Soubor",
 	"beta-feature-timedmediahandler-message-videojs": "Nový přehrávač videa",
-	"beta-feature-timedmediahandler-description-videojs": "Prohlížejte si videosoubory v moderním přehrávači s čistším vzhledem a použitelném na mobilech.",
+	"beta-feature-timedmediahandler-description-videojs": "Sledujte videa v moderním přehrávači s čistším vzhledem, který je kompatibilní s mobily.",
 	"right-transcode-reset": "Restartovat zpracování videí, pokud skončilo chybou",
 	"right-transcode-status": "Zobrazení [[Special:TimedMediaHandler|informací o probíhajícím transkódování]]",
 	"action-transcode-reset": "obnovovat transkódování",
 	"action-transcode-status": "vidět aktuální stav transkódování",
 	"log-name-timedmediahandler": "Kniha časovaného zpracování médií",
 	"log-description-timedmediahandler": "Toto je kniha akcí vztahujících se k časovaným překódováním médií.",
-	"logentry-timedmediahandler-resettranscode": "$1 {{GENDER:$2|obnovil|obnovila}} transkódování souboru $3 do formátu „$4“",
+	"logentry-timedmediahandler-resettranscode": "$1 {{GENDER:$2|obnovil|obnovila|obnovil(a)}} transkódování souboru $3 do formátu „$4“",
 	"orphanedtimedtext": "Osiřelé stránky TimedText",
 	"orphanedtimedtext-summary": "Seznam stránek [[{{#special:AllPages/TimedText:}}|{{ns:TimedText}}]], které nemají odpovídající soubor.",
 	"orphanedtimedtext-unsupported": "Tato speciální stránka je podporována jen na databázi MySQL.",
