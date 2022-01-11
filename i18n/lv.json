@@ -27,5 +27,6 @@
 	"timedmedia-subtitle-new-go": "Aiziet!",
 	"timedmedia-subtitle-language": "$1 ($2) subtitri",
 	"beta-feature-timedmediahandler-message-videojs": "Jaunais video atskaņotājs",
+	"beta-feature-timedmediahandler-description-videojs": "Skaties video failus modernā atskaņotājā ar tīrāku saskarni un mobilo ierīču savietojamību.",
 	"videojs-quality": "Video kvalitāte"
 }
