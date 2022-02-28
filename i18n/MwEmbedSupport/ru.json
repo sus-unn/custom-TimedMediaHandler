@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Kaganer",
-			"Александр Сигачёв"
+			"Александр Сигачёв",
+			"Pacha Tchernof"
 		]
 	},
-	"mwe-loading": "загрузка …",
+	"mwe-loading": "Загружается…",
 	"mwe-error_load_lib": "Ошибка. JavaScript $1 не доступен или не определяет $2",
 	"mwe-apiproxy-setup": "Настройка API-прокси",
 	"mwe-load-drag-item": "Загрузка перетащенного элемента",

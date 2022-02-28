@@ -4,7 +4,7 @@
 			"ChrisPtDe"
 		]
 	},
-	"mwe-loading": "Chargement ...",
+	"mwe-loading": "Chargement...",
 	"mwe-error_load_lib": "Fôta : JavaScript $1 at pas possu étre trovâ ou ben dèfenét pas $2",
 	"mwe-apiproxy-setup": "Configuracion du proxy API",
 	"mwe-load-drag-item": "Chargement de l’èlèment dèposeâ",
