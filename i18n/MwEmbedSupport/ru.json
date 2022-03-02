@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Kaganer",
-			"Александр Сигачёв"
+			"Александр Сигачёв",
+			"Pacha Tchernof"
 		]
 	},
-	"mwe-loading": "загрузка …"
+	"mwe-loading": "Загружается…"
 }
