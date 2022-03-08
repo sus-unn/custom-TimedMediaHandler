@@ -6,7 +6,8 @@
 			"Bellayet",
 			"Elias Ahmmad",
 			"Zaheen",
-			"আফতাবুজ্জামান"
+			"আফতাবুজ্জামান",
+			"MdsShakil"
 		]
 	},
 	"timedmedia-ogg-short-audio": "অগ $1 শব্দ ফাইল, $2",
@@ -102,5 +103,6 @@
 	"log-name-timedmediahandler": "টাইমডমিডিয়াহ্যান্ডেলার লগ",
 	"log-description-timedmediahandler": "এটি সময়ানুযায়ী মিডিয়া ট্রান্সকোডের সাথে সম্পর্কিত কর্মের একটি লগ।",
 	"videojs-more-information": "আরও তথ্য",
-	"videojs-quality": "ভিডিওর মান"
+	"videojs-quality": "ভিডিওর মান",
+	"transcodestatistics": "ট্রান্সকোড পরিসংখ্যান"
 }
