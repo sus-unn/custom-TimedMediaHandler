@@ -10,7 +10,8 @@
 			"Mjbmr",
 			"Pouyana",
 			"Reza1615",
-			"پاناروما"
+			"پاناروما",
+			"Beginneruser"
 		]
 	},
 	"mwe-embedplayer-credit-title": "عنوان: $1",
@@ -61,6 +62,7 @@
 	"mwe-embedplayer-ogg-player-aacNative": "پخش ای‌سی‌سی  اچ‌تی‌ام‌ال۵",
 	"mwe-embedplayer-ogg-player-h264Native": "پخش اچ.۲۶۴  اچ‌تی‌ام‌ال۵",
 	"mwe-embedplayer-ogg-player-webmNative": "پخش وب‌ام  اچ‌تی‌ام‌ال۵",
+	"mwe-embedplayer-ogg-player-vp9Native": "پخش‌ کننده HTML5 VP9",
 	"mwe-embedplayer-ogg-player-oggPlugin": "پلاگین صوتی عمومی",
 	"mwe-embedplayer-ogg-player-vlcAppPlayer": "وی‌ال‌سی برای اپ iOS",
 	"mwe-embedplayer-ogg-player-quicktime-mozilla": "پلاگین زمان زود",
