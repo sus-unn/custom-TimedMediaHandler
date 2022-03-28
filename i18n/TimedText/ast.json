@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Xuacu"
+			"Xuacu",
+			"Fitoschido"
 		]
 	},
 	"mwe-timedtext-back-btn": "Anterior",
-	"mwe-timedtext-layout-off": "Tapecer subtítulos",
+	"mwe-timedtext-layout-off": "Anubrir los sotítulos",
 	"mwe-timedtext-loading-text": "Cargando'l testu...",
 	"mwe-timedtext-textcat-cc": "Lleendes",
 	"mwe-timedtext-textcat-sub": "Subtítulos",
