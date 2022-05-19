@@ -4,7 +4,8 @@
 			"Artsiom91",
 			"Chadyka",
 			"Чаховіч Уладзіслаў",
-			"Tomato Cream"
+			"Tomato Cream",
+			"No Sleep till Krupki"
 		]
 	},
 	"timedmediahandler-desc": "Апрацоўшчык аўдыё, відэа і субцітраў у фарматах WebM, Ogg Theora, Vorbis, SRT",
@@ -34,7 +35,7 @@
 	"timedmedia-mpeg-long-video": "аўдыё/відэа-файл MPEG, $1, даўжыня $2, $4 × $5 пікселяў, усяго $3",
 	"timedmedia-more": "Болей…",
 	"timedmedia-dismiss": "Закрыць",
-	"timedmedia-download": "Спампаваць файлу",
+	"timedmedia-download": "Спампаваць файл",
 	"timedmedia-play-media": "Прайграць медыя",
 	"timedmedia-desc-link": "Пра гэты файл",
 	"timedmedia-oggThumb-version": "OggHandler патрабуе oggThumb версіі $1 ці больш позняй.",
