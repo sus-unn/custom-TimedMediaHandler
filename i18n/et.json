@@ -117,6 +117,7 @@
 	"timedmedia-derivative-state-missing": "{{PLURAL:$1|Üks|$1}} algatamata {{PLURAL:$1|ümberkodeering|ümberkodeeringut}}",
 	"timedmedia-no-derivatives": "Ümberkodeerimine pole vajalik.",
 	"timedmedia-file": "Fail",
+	"timedmedia-dialog-close": "Sule meediumiesitaja",
 	"beta-feature-timedmediahandler-message-videojs": "Uus videoesitaja",
 	"beta-feature-timedmediahandler-description-videojs": "Vaata videoid tänapäevase esitajaga, millel on korralikum väljanägemine ja mis ühildub mobiiliga.",
 	"right-transcode-reset": "Lähtestada ebaõnnestunud või ümberkodeeritud videoid, nii et need lisatakse uuesti tööjärge",
@@ -132,5 +133,7 @@
 	"orphanedtimedtext-notimedtext": "Ajastatud tekst pole selles vikis lubatud.",
 	"videojs-more-information": "Lisateave",
 	"videojs-quality": "Video kvaliteet",
+	"videojs-subtitles-create": "Koosta subtiitrid",
+	"videojs-captions-create": "Koosta pealdised",
 	"transcodestatistics": "Ümberkodeerimise arvandmestik"
 }
