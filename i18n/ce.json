@@ -74,5 +74,6 @@
 	"right-transcode-reset": "Кхосса дика йоцу видеош уьш рогӀехь хилийта.",
 	"right-transcode-status": "Хьажа [[Special:TimedMediaHandler|йуха код хийцаран хааме]]",
 	"orphanedtimedtext": "Йайна агӀонаш TimedText",
-	"orphanedtimedtext-notimedtext": "TimedText хӀокху вики чохь латина дац."
+	"orphanedtimedtext-notimedtext": "TimedText хӀокху вики чохь латина дац.",
+	"transcodestatistics": "Кодхийцаран статистика"
 }
