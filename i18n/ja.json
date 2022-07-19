@@ -16,7 +16,9 @@
 			"What here area team",
 			"ネイ",
 			"青子守歌",
-			"ひまり"
+			"ひまり",
+			"Marine-Blue",
+			"MathXplore"
 		]
 	},
 	"timedmediahandler-desc": "WebM、Ogg Theora、Vorbis、srt 形式に対応した、動画、音声、字幕のハンドラー",
@@ -106,6 +108,8 @@
 	"timedmedia-file": "ファイル",
 	"beta-feature-timedmediahandler-message-videojs": "新しいビデオプレイヤー",
 	"beta-feature-timedmediahandler-description-videojs": "さっぱりとした見た目とモバイル端末との親和性を兼ねた最新のプレイヤーで動画ファイルを見る。",
+	"right-transcode-reset": "失敗あるいはトランスコードされた動画をリセットして、再びジョブキューに追加することができる",
+	"right-transcode-status": "[[Special:TimedMediaHandler|現在のトランスコードアクティビティに関する情報]]を閲覧する",
 	"action-transcode-reset": "トランスコードのリセット",
 	"action-transcode-status": "現在のトランスコード状態の閲覧",
 	"log-name-timedmediahandler": "TimedMediaHandler記録",
