@@ -12,7 +12,8 @@
 			"Saederup92",
 			"Simeondahl",
 			"SimmeD",
-			"Steenth"
+			"Steenth",
+			"Saurmandal"
 		]
 	},
 	"timedmediahandler-desc": "Understøttelse for lyd, video og tidsbestemt txt med formaterne WebM, Ogg Theora, Vorbis, srt",
@@ -21,7 +22,7 @@
 	"timedmedia-ogg-short-general": "Ogg $1 mediafil, $2",
 	"timedmedia-ogg-long-audio": "Ogg $1 lydfil, længde $2, $3",
 	"timedmedia-ogg-long-video": "Ogg $1 videofil, længde $2, $4×$5 pixel, $3",
-	"timedmedia-ogg-long-multiplexed": "Sammensat Ogg-lyd- og -videofil, $1, længde $2, $4×$5 pixel, $3 samlet",
+	"timedmedia-ogg-long-multiplexed": "sammensat Ogg-lyd- og -videofil, $1, længde $2, $4 × $5 pixel, $3 samlet",
 	"timedmedia-ogg-long-general": "Ogg mediafil, længde $2, $3",
 	"timedmedia-ogg-long-error": "Ugyldig Ogg-fil: $1",
 	"timedmedia-webm-short-video": "WebM $1 videofil, $2",

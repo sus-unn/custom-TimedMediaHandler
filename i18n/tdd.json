@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"咽頭べさ"
+			"咽頭べさ",
+			"Aey Tai Nuea"
 		]
 	},
 	"timedmedia-source-file": "ᥒᥝᥲᥒᥣᥱ $1",
-	"timedmedia-source-audio-file-desc": "ᥜᥣᥭᥱᥒᥝᥲᥖᥪᥢᥰ $1 ᥜᥣᥭᥱ ($2)"
+	"timedmedia-source-audio-file-desc": "ᥜᥣᥭᥱ ᥒᥝᥲ ᥖᥪᥢᥰ $1 ᥜᥣᥭᥱ ($2)"
 }
