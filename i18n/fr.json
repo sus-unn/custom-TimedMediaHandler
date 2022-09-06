@@ -27,7 +27,8 @@
 			"Thibaut120094",
 			"Urhixidur",
 			"Verdy p",
-			"Wladek92"
+			"Wladek92",
+			"Cigaryno"
 		]
 	},
 	"timedmediahandler-extensionname": "TimedMediaHandler",
@@ -209,7 +210,7 @@
 	"orphanedtimedtext-summary": "Liste des pages [[{{#special:AllPages/TimedText:}}|{{ns:TimedText}}]] qui n’ont aucun fichier correspondant.",
 	"orphanedtimedtext-unsupported": "Cette page spéciale n’est prise en charge que sur les bases de données MySQL.",
 	"orphanedtimedtext-notimedtext": "TimedText n’est pas activé sur ce wiki.",
-	"videojs-more-information": "Plus d’informations",
+	"videojs-more-information": "Davantage d’informations",
 	"videojs-quality": "Qualité de la vidéo",
 	"transcodestatistics": "Statistiques de transcodage"
 }
