@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Tisave"
+			"Tisave",
+			"Kitanago"
 		]
 	},
-	"timedmedia-source-file": "Referans $1"
+	"timedmedia-source-file": "Sous $1",
+	"timedmedia-source-audio-file-desc": "Fichye $1 orijinal ($2)"
 }
