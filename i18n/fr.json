@@ -201,7 +201,7 @@
 	"timedmedia-file": "Fichier",
 	"timedmedia-dialog-close": "Fermer le lecteur de média",
 	"timedmedia-duration-hms": "$1 heure{{PLURAL:$1||s}}, $2 minute{{PLURAL:$2||s}} et $3 seconde{{PLURAL:$3||s}}",
-	"timedmedia-duration-ms": "$1 minute{{PLURAL:$1||s}} et $2 seconde{{PLURAL:$2||s}}",
+	"timedmedia-duration-ms": "$1 minute{{PLURAL:$1||s}} et $2 seconde{{PLURAL:$2||s}}",
 	"timedmedia-duration-s": "$1 seconde{{PLURAL:$1||s}}",
 	"beta-feature-timedmediahandler-message-videojs": "Nouveau lecteur vidéo",
 	"beta-feature-timedmediahandler-description-videojs": "Visualiser des fichiers vidéo dans un lecteur moderne avec un aspect plus propre et la compatibilité mobile.",
