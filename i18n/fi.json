@@ -11,7 +11,9 @@
 			"Pxos",
 			"Pyscowicz",
 			"Str4nd",
-			"VezonThunder"
+			"VezonThunder",
+			"Jack Phoenix",
+			"Kyykaarme"
 		]
 	},
 	"timedmediahandler-desc": "Käsittelijä äänelle, videolle ja tekstitykselle. Tukee muotoja WebM, Ogg Theora, Vorbis ja srt.",
@@ -76,5 +78,7 @@
 	"timedmedia-dialog-close": "Sulje mediasoitin",
 	"beta-feature-timedmediahandler-message-videojs": "Uusi videosoitin",
 	"beta-feature-timedmediahandler-description-videojs": "Katsele videotiedostoja nykyaikaisemmassa soittimessa, jossa on selkeämpi ulkoasu ja joka on yhteensopivampi mobiililaitteiden kanssa.",
-	"log-name-timedmediahandler": "TimedMediaHandler-toimintoloki"
+	"log-name-timedmediahandler": "TimedMediaHandler-toimintoloki",
+	"orphanedtimedtext": "Hylätyt TimedText-sivut",
+	"orphanedtimedtext-summary": "Luettelo [[{{#special:AllPages/TimedText:}}|{{ns:TimedText}}]]-sivuista, joita vastaavia tiedostoja ei ole."
 }
