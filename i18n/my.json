@@ -21,5 +21,7 @@
 	"timedmedia-subtitle-new-desc": "ဘာသာစကားရွေးပြီး '''{{int:Timedmedia-subtitle-new-go}}''' ခလုတ်ကိုနှိပ်ပါ",
 	"timedmedia-subtitle-new-go": "သွားပါ",
 	"timedmedia-file": "ဖိုင်",
-	"beta-feature-timedmediahandler-message-videojs": "ဗီဒီယို ပလေယာ အသစ်"
+	"beta-feature-timedmediahandler-message-videojs": "ဗီဒီယို ပလေယာ အသစ်",
+	"videojs-more-information": "သတင်းအချက်အလက် ပို၍",
+	"videojs-quality": "ဗီဒီယိုအရည်အသွေး"
 }
