@@ -158,7 +158,7 @@ class TimedMediaHandlerHooks {
 
 		global $wgTimedTextNS;
 		if ( $output->getTitle()->getNamespace() === $wgTimedTextNS ) {
-			$article = new TimedTextPage( $output->getTitle(), $output->getRevisionId() );
+			$article = new TimedTextPage( $output->getTitle(), $diffEngine->getNewId() );
 			$article->renderOutput( $output );
 			return false;
 		}
