@@ -353,7 +353,7 @@ class TimedMediaTransformOutput extends MediaTransformOutput {
 		reset( $mediaSources ); // do not rely on auto-resetting of arrays under HHVM
 		$firstSource = current( $mediaSources );
 
-		if ( !$firstSource['src'] ) {
+		if ( $firstSource === false || !$firstSource['src'] ) {
 			// XXX media handlers don't seem to work with exceptions..
 			return 'Error missing media source';
 		}
