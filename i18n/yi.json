@@ -2,13 +2,16 @@
 	"@metadata": {
 		"authors": [
 			"פוילישער",
-			"පසිඳු කාවින්ද"
+			"පසිඳු කාවින්ද",
+			"Pacha Tchernof"
 		]
 	},
+	"timedmedia-more": "נאָך…",
 	"timedmedia-dismiss": "שליסן",
 	"timedmedia-download": "אראָפלאָדן טעקע",
 	"timedmedia-status": "סטאַטוס",
 	"timedmedia-source-file": "$1 מקור",
 	"timedmedia-source-audio-file-desc": "אריגינעלע $1 טעקע ($2)",
+	"timedmedia-subtitle-new-go": "גיין",
 	"timedmedia-file": "טעקע"
 }
