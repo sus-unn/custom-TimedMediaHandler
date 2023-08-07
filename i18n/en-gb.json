@@ -4,11 +4,14 @@
 			"Andibing",
 			"Captaindogfish",
 			"Macofe",
-			"Shirayuki"
+			"Shirayuki",
+			"Bjh21",
+			"Reedy"
 		]
 	},
 	"timedmedia-ogg-long-no-streams": "Ogg media file. Warning: None of the codecs used in this file are recognised.",
 	"timedmedia-derivative-desc-1080p.ogv": "Full HD Ogg video (1080P)",
 	"timedmedia-derivative-desc-1080p.webm": "Full HD WebM (1080P)",
-	"timedmedia-derivative-desc-1080p.mp4": "Full HD quality MP4 (1080P)"
+	"timedmedia-derivative-desc-1080p.mp4": "Full HD quality MP4 (1080P)",
+	"timedmedia-derivative-state-missing": "{{PLURAL:$1|$1 uninitialised transcode|$1 uninitialised transcodes}}"
 }
