@@ -1239,7 +1239,7 @@ class WebVideoTranscode {
 		$keys = [];
 		foreach ( static::$derivativeSettings as $key => $settings ) {
 			$streaming = $settings['streaming'] ?? '';
-			if ( $streaming === 'hls' && static::isTranscodeEnabled( $file, $key ) ) {
+			if ( $streaming === 'hls' && static::isTranscodeReady( $file, $key ) ) {
 				$keys[] = $key;
 			}
 		}
