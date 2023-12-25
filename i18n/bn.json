@@ -7,7 +7,9 @@
 			"Elias Ahmmad",
 			"Zaheen",
 			"আফতাবুজ্জামান",
-			"MdsShakil"
+			"MdsShakil",
+			"Aishik Rehman",
+			"Borhan"
 		]
 	},
 	"timedmediahandler-extensionname": "টাইমডমিডিয়াহ্যান্ডেলার",
@@ -96,7 +98,7 @@
 	"timedmedia-derivative-state-transcodes": "{{PLURAL:$1|$1টি ট্রান্সকোড}}",
 	"timedmedia-derivative-state-active": "{{PLURAL:$1|$1টি চলিত ট্রান্সকোড}}",
 	"timedmedia-derivative-state-failed": "{{PLURAL:$1|$1টি ব্যর্থ ট্রান্সকোড}}",
-	"timedmedia-no-derivatives": "কোন ট্রান্সকোডের প্রয়োজন নেই।",
+	"timedmedia-no-derivatives": "কোনো ট্রান্সকোডের প্রয়োজন নেই।",
 	"timedmedia-file": "ফাইল",
 	"beta-feature-timedmediahandler-message-videojs": "নতুন ভিডিও প্লেয়ার",
 	"beta-feature-timedmediahandler-description-videojs": "একটি পরিচ্ছন্ন দৃশ্য এবং মোবাইল সামঞ্জস্যসহ একটি আধুনিক প্লেয়ারে ভিডিও ফাইলগুলি দেখুন।",
