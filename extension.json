@@ -288,7 +288,7 @@
 				"ogg": true,
 				"opus": false,
 				"mp3": true,
-				"m4a": false
+				"m4a": true
 			}
 		},
 		"TmhEnableMp4Uploads": {
